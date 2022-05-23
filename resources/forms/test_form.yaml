@@ -4,5 +4,5 @@ email:
     to: stuart@stuartcusack.ie
     html: emails/form-filled-in
     text: emails/form-filled-in_plain
-    markdown: true
     attachments: true
+    markdown: true
